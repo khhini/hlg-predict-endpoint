@@ -26,14 +26,14 @@ uri = http://localhost:5000
 ```
 
 
-Request Payload
+POST Request Payload
 ```
 {
     "img": base64encodedImage
 }
 ```
 
-Request Response
+POST Request Response
 ```
 {
     "img": base64encodedImage
