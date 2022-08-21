@@ -3,7 +3,7 @@
 Setup
 - Create a directory for models
 - Copy `models.weight` and `models.cfg` to created directory
-- update `.env` files to match models file references
+- update or create `.env` files to containing model file references
 ```
 MODEL_DIR= "model_dir_name/"
 MODEL_WEIGHT="model_weight_name.weights"
